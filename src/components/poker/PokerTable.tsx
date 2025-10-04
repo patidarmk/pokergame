@@ -12,7 +12,6 @@ interface Player {
   currentBet: number;
   isActive: boolean;
   hasFolded: boolean;
-  position: string;
 }
 
 interface PokerTableProps {
